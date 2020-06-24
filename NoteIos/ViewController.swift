@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  SampleAudioRecorderApp
-//
-//  Created by Dharmendra on 21/05/18.
-//  Copyright © 2018 dharmendra. All rights reserved.
-//
+
 
 import UIKit
 import AVFoundation

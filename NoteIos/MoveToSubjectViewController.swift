@@ -1,9 +1,4 @@
-//
-//  MoveToSubjectViewController.swift
-//  FinalProject_C0749456_IOS
-//
-//  Created by Megha Mahna on 2020-01-22.
-//  Copyright © 2020 Megha. All rights reserved.
+//.
 //
 
 import UIKit
